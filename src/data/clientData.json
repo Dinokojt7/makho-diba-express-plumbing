@@ -1,0 +1,150 @@
+{
+  "business": {
+    "name": "Makho & Diba Express Plumbing",
+    "tagline": "Qualified | Reliable | Insured",
+    "description": "Expert plumbing services in Johannesburg. From blocked drains to geyser installations — we show up, we fix it, we care.",
+    "logo": "/logo.webp",
+    "favicon": "/favicon.ico"
+  },
+  "metadata": {
+    "title": "Makho & Diba Express Plumbing | Johannesburg Plumbers",
+    "description": "Expert plumbing services across Johannesburg. Geyser installations, blocked drains, renovations, CCTV inspections and more. Qualified, reliable, and insured.",
+    "keywords": "plumber johannesburg, plumbing services johannesburg, blocked drains johannesburg, geyser installation johannesburg, plumbing maintenance, cctv sewer inspection, certificate of compliance plumbing, bathroom renovation johannesburg, brixton plumber, emergency plumber johannesburg",
+    "ogImage": "/hero.webp",
+    "twitterHandle": ""
+  },
+  "contact": {
+    "email": "macho.diba@gmail.com",
+    "cell": "+27 82 226 5899",
+    "tel": "+27 11 039 5131",
+    "whatsapp": "+27822265899",
+    "address": "32 Chiswick Street, Brixton, 2092",
+    "hours": "Mon–Fri: 7AM–5PM | Sat: 8AM–2PM",
+    "social": {
+      "facebook": "https://www.facebook.com/people/MD-Express-Plumbing/100067137995834/",
+      "whatsapp": "https://wa.me/27822265899"
+    }
+  },
+  "navigation": {
+    "main": [
+      { "name": "Home", "href": "/" },
+      { "name": "Services", "href": "/services" },
+      { "name": "Contact", "href": "/contact" }
+    ],
+    "ctaButton": {
+      "text": "Get a Quote",
+      "href": "/contact",
+      "whatsappPhone": "+27822265899"
+    },
+    "whatsappMessage": "Hello! I'd like to get a quote for plumbing services."
+  },
+  "hero": {
+    "headline": "Plumbing Done\nRight, Every Time.",
+    "subheadline": "Qualified, reliable, and insured",
+    "body": "Looking for a trusted plumber? We're here to assist you with all your plumbing needs — from blocked drains to full renovations.",
+    "ctaText": "HOW CAN WE HELP YOU?",
+    "ctaHref": "https://wa.me/27822265899"
+  },
+  "services": [
+    {
+      "id": 1,
+      "title": "Renovations",
+      "description": "Transform your home with a professional bathroom and/or kitchen renovation!",
+      "icon": "/icons/renovations.webp"
+    },
+    {
+      "id": 2,
+      "title": "Certificate of Compliance",
+      "description": "We are registered to provide plumbing CoC's according to the municipal regulations.",
+      "icon": "/icons/compliance.webp"
+    },
+    {
+      "id": 3,
+      "title": "Sewer Inspections",
+      "description": "Sewer camera inspections offer precise and accurate diagnostics to identify blockages, damage, and root intrusion.",
+      "icon": "/icons/sewer-inspection.webp"
+    },
+    {
+      "id": 4,
+      "title": "Geyser Specialists",
+      "description": "New installations, replacements, maintenance and repairs — we consider ourselves specialists in this area.",
+      "icon": "/icons/geyser-specialist.webp"
+    },
+    {
+      "id": 5,
+      "title": "Blocked Drains",
+      "description": "Addressing blocked drains promptly prevents water damage, unpleasant odors, and potential health hazards.",
+      "icon": "/icons/blocked-drains.webp"
+    },
+    {
+      "id": 6,
+      "title": "Plumbing Maintenance",
+      "description": "General plumbing maintenance services are essential for ensuring the reliability, efficiency, and longevity of your plumbing system.",
+      "icon": "/icons/plumbing-maintenance.webp"
+    }
+  ],
+  "about": {
+    "heading": "A plumbing team on a mission!",
+    "body": "Built on trust and reliability, we deliver professional plumbing solutions to residents and businesses across Johannesburg.",
+    "points": [
+      {
+        "number": "01.",
+        "title": "Founded with Purpose",
+        "description": "Built to provide affordable, quality plumbing to homeowners and businesses — driven by trust and a commitment to getting the job done right."
+      },
+      {
+        "number": "02.",
+        "title": "Quality Every Time",
+        "description": "From geyser installations to full renovations, we deliver consistent quality on every job — big or small."
+      },
+      {
+        "number": "03.",
+        "title": "Fast & Professional",
+        "description": "We prioritise rapid response, clear communication, and clean workmanship — because plumbing issues can't wait."
+      }
+    ]
+  },
+  "targetAudience": [
+    "Residential homeowners",
+    "Commercial properties",
+    "Guesthouses & lodges",
+    "Schools & institutions",
+    "Property managers",
+    "Contractors & developers"
+  ],
+  "whyChooseUs": [
+    { "title": "Qualified & Experienced", "desc": "Certified plumbers with years of hands-on experience." },
+    { "title": "Reliable & On Time", "desc": "We show up when we say we will — no waiting around." },
+    { "title": "Fully Insured", "desc": "Complete peace of mind on every job we undertake." },
+    { "title": "Transparent Pricing", "desc": "Honest quotes with no hidden costs or surprises." },
+    { "title": "Emergency Response", "desc": "Fast response when you need us most." },
+    { "title": "Service Excellence", "desc": "We're not done until you're completely satisfied." }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Thabo M.",
+      "role": "Homeowner, Brixton",
+      "content": "Makho & Diba fixed our burst geyser faster than I expected. Professional, clean, and fairly priced. Will definitely use them again!",
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "name": "Sandra P.",
+      "role": "Property Manager, Johannesburg",
+      "content": "Reliable and thorough. They sorted out a blocked drain issue at our complex that other plumbers couldn't fix. Highly recommended.",
+      "rating": 5
+    },
+    {
+      "id": 3,
+      "name": "Riaan V.",
+      "role": "Business Owner, Westdene",
+      "content": "Called them for an emergency and they were on site within the hour. Great workmanship and a very professional team. My go-to plumbers from now on.",
+      "rating": 5
+    }
+  ],
+  "footer": {
+    "description": "Expert plumbing services across Johannesburg and surrounds. Qualified, reliable, and insured.",
+    "copyright": "© 2025 Makho & Diba Express Plumbing. All rights reserved."
+  }
+}
