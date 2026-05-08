@@ -24,6 +24,16 @@ function CollageImg({ src, alt, delay, className = '' }) {
 export default function ImageCollage() {
   return (
     <section className="relative py-[72px] px-4 sm:px-8 lg:px-10 bg-surface font-poppins overflow-hidden">
+      <div className="flex items-start gap-4 mb-10 justify-center max-w-7xl mx-auto">
+        <div className="w-1.5 bg-[#B21F36] rounded-full shrink-0" style={{ height: '3rem' }} />
+        <h2
+          className="font-bold text-ink uppercase leading-tight"
+          style={{ fontSize: 'clamp(1.4rem, 3vw + 0.3rem, 2.25rem)' }}
+        >
+          Our Recent Work
+        </h2>
+      </div>
+
       {/* Mobile: 2-column grid */}
       <div className="md:hidden max-w-7xl mx-auto rounded-[20px] overflow-hidden shadow-[0_4px_28px_rgba(0,0,0,0.09)] grid grid-cols-2 gap-[8px] p-[8px] bg-white">
         <CollageImg src="/collage1.webp" alt="Plumbing work" delay={0}    className="rounded-xl aspect-[4/3]" />
