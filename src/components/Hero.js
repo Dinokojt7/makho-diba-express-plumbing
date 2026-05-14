@@ -60,12 +60,10 @@ export default function Hero() {
     <section className="relative min-h-screen overflow-hidden">
       {/* Background */}
       <div className="absolute inset-0">
-        <Image
+        <img
           src="/hero.webp"
           alt=""
-          fill
-          className="object-cover object-center"
-          priority
+          className="w-full h-full object-cover object-center"
         />
       </div>
 
